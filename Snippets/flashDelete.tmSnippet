@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>flashDelete(${1:${2:key="$3"}})$0</string>
+	<key>name</key>
+	<string>flashDelete</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>flashdelete</string>
+	<key>uuid</key>
+	<string>BA830EF1-3953-49D8-8718-267A70B786F6</string>
+</dict>
+</plist>

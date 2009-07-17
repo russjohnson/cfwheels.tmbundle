@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>validatesLengthOf(${1:${2:property="$3"}${4:, exactly="$5"}${6:, maximum="$7"}${8:, minimum="$9"}${10:, within="$11"}${12:, message="$13"}${14:, when="$15"}${16:, allowBlank="$17"}})$0</string>
+	<key>name</key>
+	<string>validatesLengthOf</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>vlo</string>
+	<key>uuid</key>
+	<string>1E65489E-59B4-4C31-B163-0AAF46C0E3C6</string>
+</dict>
+</plist>

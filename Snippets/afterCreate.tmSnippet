@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>afterCreate(${1:${2:methods="$3"}})$0</string>
+	<key>name</key>
+	<string>afterCreate</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>aftercreate</string>
+	<key>uuid</key>
+	<string>70A3EC75-FD72-40C3-90DC-46C8CDA82BB1</string>
+</dict>
+</plist>

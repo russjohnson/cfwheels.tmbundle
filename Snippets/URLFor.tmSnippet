@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>urlFor(${1:${2:route="$3"}${4:, controller="$5"}${6:, action="$7"}${8:, key="$9"}${10:, params="$11"}${12:, anchor="$13"}${14:, onlyPath="$15"}${16:, host="$17"}${18:, protocol="$19"}${20:, port="$21"}})$0</string>
+	<key>name</key>
+	<string>URLFor</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>urlfor</string>
+	<key>uuid</key>
+	<string>E45D4157-7C75-4521-83D1-B95FA84E983D</string>
+</dict>
+</plist>

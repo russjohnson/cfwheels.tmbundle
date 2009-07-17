@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>secondSelectTag($1)$0</string>
+	<key>name</key>
+	<string>secondSelectTag</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>secondselecttag</string>
+	<key>uuid</key>
+	<string>9CD3BEAA-C625-4F33-9225-673A44C2F09F</string>
+</dict>
+</plist>

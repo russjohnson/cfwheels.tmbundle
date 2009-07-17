@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>afterValidation(${1:${2:methods="$3"}})$0</string>
+	<key>name</key>
+	<string>afterValidation</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>av</string>
+	<key>uuid</key>
+	<string>AC11CB8D-F63E-48AD-B45E-306026CC22E1</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>errorsOnBase(${1:${2:name="$3"}})$0</string>
+	<key>name</key>
+	<string>errorsOnBase</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>errorsonbase</string>
+	<key>uuid</key>
+	<string>90FE8795-9A1F-412D-A5B5-53E8497347EE</string>
+</dict>
+</plist>

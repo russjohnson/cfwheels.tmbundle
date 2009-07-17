@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>dateSelectTag(${1:${2:order="$3"}${4:, seperator="$5"}})$0</string>
+	<key>name</key>
+	<string>dateSelectTag</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>dateselecttag</string>
+	<key>uuid</key>
+	<string>1222CFCE-68E5-4289-A7CD-0615AF529E22</string>
+</dict>
+</plist>

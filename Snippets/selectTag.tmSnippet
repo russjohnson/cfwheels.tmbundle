@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>selectTag(${1:${2:name="$3"}${4:, value="$5"}${6:, options="$7"}${8:, includeBlank="$9"}${10:, multiple="$11"}${12:, valueField="$13"}${14:, textField="$15"}${16:, label="$17"}${18:, wrapLabel="$19"}${20:, prepend="$21"}${22:, append="$23"}${24:, prependToLabel="$25"}${26:, appendToLabel="$27"}})$0</string>
+	<key>name</key>
+	<string>selectTag</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>selecttag</string>
+	<key>uuid</key>
+	<string>F9C72646-1943-4929-9677-FE564C3C6069</string>
+</dict>
+</plist>

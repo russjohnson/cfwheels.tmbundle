@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>redirectTo(${1:${2:route="$3"}${4:, controller="$5"}${6:, action="$7"}${8:, key="$9"}${10:, back="$11"}${12:, params="$13"}${14:, addToken="$15"}${16:, statusCode="$17"}${18:, anchor="$19"}${20:, onlyPath="$21"}${22:, host="$23"}${24:, port="$25"}})$0</string>
+	<key>name</key>
+	<string>redirectTo</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>redirectto</string>
+	<key>uuid</key>
+	<string>F3B5B583-EDB7-482B-BBC6-ED49EA583608</string>
+</dict>
+</plist>

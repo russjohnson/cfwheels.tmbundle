@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>obfuscateParam(${1:${2:param="$3"}})$0</string>
+	<key>name</key>
+	<string>obfuscateParam</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>obfuscateparam</string>
+	<key>uuid</key>
+	<string>74C5DEE8-B237-4AAB-9C7C-01DB94E58140</string>
+</dict>
+</plist>

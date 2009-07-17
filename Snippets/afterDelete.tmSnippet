@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>afterDelete(${1:${2:methods="$3"}})$0</string>
+	<key>name</key>
+	<string>afterDelete</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>afterdelete</string>
+	<key>uuid</key>
+	<string>62CC6D79-9157-4E1A-88E8-71E4AD489BE9</string>
+</dict>
+</plist>

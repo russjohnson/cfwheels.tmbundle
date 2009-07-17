@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>renderPartial(${1:${2:name="$3"}${4:, cache="$5"}})$0</string>
+	<key>name</key>
+	<string>renderPartial</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>renderpartial</string>
+	<key>uuid</key>
+	<string>F0082E80-7A88-45C6-AFBE-7D756256A5A5</string>
+</dict>
+</plist>

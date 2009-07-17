@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>minimum(${1:${2:property="$3"}${4:, where="$5"}${6:, include="$7"}})$0</string>
+	<key>name</key>
+	<string>minimum</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>minimum</string>
+	<key>uuid</key>
+	<string>DC6D29CE-481D-46B5-9200-F589C69D48C7</string>
+</dict>
+</plist>

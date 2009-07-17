@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>validatesUniquenessOf(${1:${2:property="$3"}${4:, scope="$5"}${6:, message="$7"}${8:, when="$9"}})$0</string>
+	<key>name</key>
+	<string>validatesUniquenessOf</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>vuo</string>
+	<key>uuid</key>
+	<string>4DB61F0A-627D-4B18-9BBE-52B4755D3996</string>
+</dict>
+</plist>

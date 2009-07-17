@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>flashCount()$0</string>
+	<key>name</key>
+	<string>flashCount</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>flashcount</string>
+	<key>uuid</key>
+	<string>51FE7A96-9F04-4FAA-B195-F92A755A75D1</string>
+</dict>
+</plist>

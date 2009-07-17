@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby
+line, col = ENV["TM_CURRENT_LINE"].to_s, ENV["TM_LINE_INDEX"].to_i
+tag = line =~ /\A.{0,#{col}}&lt;\s*([\w:]+)/ ? $1 : ENV["TM_CURRENT_WORD"].to_s
+url  = "http://angry-fly.com/cfwheelsstuff/wheels.html#" + tag
+puts "&lt;meta http-equiv='Refresh' content='0;URL=#{url}'&gt;"</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^h</string>
+	<key>name</key>
+	<string>Documentation for Tag</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>scope</key>
+	<string>entity.name.tag.cfml,entity.name.tag.cfquery.html, entity.name.tag.other.html,meta.tag.other.html,text.html.cfm</string>
+	<key>uuid</key>
+	<string>6443A772-86E3-4716-B07A-3913DE61189E</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>exists(${1:${2:key="$3"}${4:, where="$5"}${6:, reload="$7"}${8:, parameterize="$9"}})$0</string>
+	<key>name</key>
+	<string>exists</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>exists</string>
+	<key>uuid</key>
+	<string>B65530F5-DF9A-4D99-A583-63061082AD4B</string>
+</dict>
+</plist>

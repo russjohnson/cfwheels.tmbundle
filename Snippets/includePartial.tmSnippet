@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>includePartial(${1:${2:name="$3"}${4:, cache="$5"}})$0</string>
+	<key>name</key>
+	<string>includePartial</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>includepartial</string>
+	<key>uuid</key>
+	<string>5787D008-6322-41FF-84B4-1626706FAB0A</string>
+</dict>
+</plist>

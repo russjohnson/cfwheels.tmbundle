@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>verifies(${1:${2:only="$3"}${4:, except="$5"}${6:, post="$7"}${8:, get="$9"}${10:, ajax="$11"}${12:, cookie="$13"}${14:, session="$15"}${16:, params="$17"}${18:, handler="$19"}})$0</string>
+	<key>name</key>
+	<string>verifies</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>verifies</string>
+	<key>uuid</key>
+	<string>5C2BEC34-4D60-48F5-B714-B4B43B913101</string>
+</dict>
+</plist>

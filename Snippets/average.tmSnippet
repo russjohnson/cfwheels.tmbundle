@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>average(${1:${2:property="$3"}${4:, where="$5"}${6:, include="$7"}${8:, distinct="$9"}})$0</string>
+	<key>name</key>
+	<string>average</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>average</string>
+	<key>uuid</key>
+	<string>812EC3AF-BD7D-4426-AAED-7A5E8DEAD351</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>checkBox(${1:${2:objectName="$3"}${4:, property="$5"}${6:, checkedValue="$7"}${8:, uncheckedValue="$9"}${10:, label="$11"}${12:, wrapLabel="$13"}${14:, prepend="$15"}${16:, append="$17"}${18:, prependToLabel="$19"}${20:, appendToLabel="$21"}${22:, errorElement="$23"}})$0</string>
+	<key>name</key>
+	<string>checkBox</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>checkbox</string>
+	<key>uuid</key>
+	<string>10A1BE9D-001E-4249-87FA-EF4094684862</string>
+</dict>
+</plist>

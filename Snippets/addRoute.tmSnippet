@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>addRoute(${1:${2:name="$3"}${4:, pattern="$5"}${6:, controller="$7"}${8:, action="$9"}})$0</string>
+	<key>name</key>
+	<string>addRoute</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>addroute</string>
+	<key>uuid</key>
+	<string>E6D2C5CD-481E-431F-A6DC-0BFD58F868D7</string>
+</dict>
+</plist>

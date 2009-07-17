@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>paginationLinks(${1:${2:windowSize="$3"}${4:, alwaysShowAnchors="$5"}${6:, linkToCurrentPage="$7"}${8:, prependToLink="$9"}${10:, appendToLink="$11"}${12:, classForCurrent="$13"}${14:, handle="$15"}${16:, name="$17"}${18:, params="$19"}})$0</string>
+	<key>name</key>
+	<string>paginationLinks</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>paginationlinks</string>
+	<key>uuid</key>
+	<string>A609C515-1DC4-4DC2-ADB7-4895360A0789</string>
+</dict>
+</plist>

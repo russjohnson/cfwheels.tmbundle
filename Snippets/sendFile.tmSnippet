@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>sendFile(${1:${2:file="$3"}${4:, name="$5"}${6:, type="$7"}${8:, disposition="$9"}})$0</string>
+	<key>name</key>
+	<string>sendFile</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>sendfile</string>
+	<key>uuid</key>
+	<string>690187C4-749A-40DC-B7AA-6FA55843A586</string>
+</dict>
+</plist>

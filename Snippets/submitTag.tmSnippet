@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>submitTag(${1:${2:value="$3"}${4:, image="$5"}${6:, disable="$7"}})$0</string>
+	<key>name</key>
+	<string>submitTag</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>submittag</string>
+	<key>uuid</key>
+	<string>B36643E5-CDBB-4A68-9128-2F36887EFCC2</string>
+</dict>
+</plist>

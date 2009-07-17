@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>validatesConfirmationOf(${1:${2:property="$3"}${4:, message="$5"}${6:, when="$7"}})$0</string>
+	<key>name</key>
+	<string>validatesConfirmationOf</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>vco</string>
+	<key>uuid</key>
+	<string>95B48CBE-632B-4DD5-B0F6-0AE9F744A5EA</string>
+</dict>
+</plist>

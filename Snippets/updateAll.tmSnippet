@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>updateAll(${1:${2:where="$3"}${4:, include="$5"}${6:, properties="$7"}${8:, parameterize="$9"}${10:, instantiate="$11"}})$0</string>
+	<key>name</key>
+	<string>updateAll</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>updateall</string>
+	<key>uuid</key>
+	<string>E5BD97EE-CF54-427A-B691-8EB48F661A6E</string>
+</dict>
+</plist>

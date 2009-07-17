@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>filters(${1:${2:through="$3"}${4:, type="$5"}${6:, only="$7"}${8:, except="$9"}})$0</string>
+	<key>name</key>
+	<string>filters</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>filters</string>
+	<key>uuid</key>
+	<string>61C39F83-59FA-4B8A-A02F-F99629062127</string>
+</dict>
+</plist>

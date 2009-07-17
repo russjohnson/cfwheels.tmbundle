@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>flashClear()$0</string>
+	<key>name</key>
+	<string>flashClear</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>flashclear</string>
+	<key>uuid</key>
+	<string>B5AC8FA7-ACFF-49A9-8A41-D76C127B607E</string>
+</dict>
+</plist>

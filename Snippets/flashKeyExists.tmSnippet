@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>flashKeyExists(${1:${2:key="$3"}})$0</string>
+	<key>name</key>
+	<string>flashKeyExists</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>flashkeyexists</string>
+	<key>uuid</key>
+	<string>CC5BE9CC-C31B-4667-9A3B-E7CABBB724CD</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>timeSelect(${1:${2:order="$3"}${4:, seperator="$5"}})$0</string>
+	<key>name</key>
+	<string>timeSelect</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>timeselect</string>
+	<key>uuid</key>
+	<string>E66104F9-C34B-4A97-BA41-60B011891842</string>
+</dict>
+</plist>

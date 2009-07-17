@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>daySelectTag($1)$0</string>
+	<key>name</key>
+	<string>daySelectTag</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>dayselecttag</string>
+	<key>uuid</key>
+	<string>95005AD3-670D-4DD9-B08A-6C7A4B2037D3</string>
+</dict>
+</plist>
