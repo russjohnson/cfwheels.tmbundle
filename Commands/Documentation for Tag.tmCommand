@@ -8,7 +8,7 @@
 	<string>#!/usr/bin/env ruby
 line, col = ENV["TM_CURRENT_LINE"].to_s, ENV["TM_LINE_INDEX"].to_i
 tag = line =~ /\A.{0,#{col}}&lt;\s*([\w:]+)/ ? $1 : ENV["TM_CURRENT_WORD"].to_s
-url  = "http://angry-fly.com/cfwheelsstuff/wheels.cfm#" + tag
+url  = "http://cfwheels.angry-fly.com/function/" + tag
 puts "&lt;meta http-equiv='Refresh' content='0;URL=#{url}'&gt;"</string>
 	<key>input</key>
 	<string>none</string>
