@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>resetCycle(${1:${2:name="$3"}})$0</string>
+	<key>name</key>
+	<string>resetCycle</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>resetcycle</string>
+	<key>uuid</key>
+	<string>7F72EC55-DE18-1691-1EB9F36BDE264979</string>
+</dict>
+</plist>

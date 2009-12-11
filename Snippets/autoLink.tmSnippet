@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>autoLink(text="$1"${2:, link="$3"})$0</string>
+	<string>autoLink(${1:${2:text="$3"}${4:, link="$5"}})$0</string>
 	<key>name</key>
 	<string>autoLink</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>autolink</string>
 	<key>uuid</key>
-	<string>B90E2984-E0C4-47BC-B5F0-B8FA467A502A</string>
+	<string>7F72EC11-9277-3FA8-4D425D938B31D3DB</string>
 </dict>
 </plist>

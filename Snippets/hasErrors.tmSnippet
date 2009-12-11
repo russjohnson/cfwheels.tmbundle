@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>hasErrors()$0</string>
+	<string>hasErrors(${1:${2:property="$3"}${4:, name="$5"}})$0</string>
 	<key>name</key>
 	<string>hasErrors</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>haserrors</string>
 	<key>uuid</key>
-	<string>A502935D-B777-40FA-AED9-40AD76D11B7E</string>
+	<string>7F72E99E-BF18-E155-C259A014950A29A5</string>
 </dict>
 </plist>

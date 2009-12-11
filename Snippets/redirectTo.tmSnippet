@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>redirectTo(${1:${2:route="$3"}${4:, controller="$5"}${6:, action="$7"}${8:, key="$9"}${10:, back="$11"}${12:, params="$13"}${14:, addToken="$15"}${16:, statusCode="$17"}${18:, anchor="$19"}${20:, onlyPath="$21"}${22:, host="$23"}${24:, port="$25"}})$0</string>
+	<string>redirectTo(${1:${2:back="$3"}${4:, addToken="$5"}${6:, port="$7"}${8:, statusCode="$9"}${10:, route="$11"}${12:, controller="$13"}${14:, action="$15"}${16:, key="$17"}${18:, params="$19"}${20:, anchor="$21"}${22:, onlyPath="$23"}${24:, host="$25"}${26:, protocol="$27"}})$0</string>
 	<key>name</key>
 	<string>redirectTo</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>redirectto</string>
 	<key>uuid</key>
-	<string>F3B5B583-EDB7-482B-BBC6-ED49EA583608</string>
+	<string>7F72EC3A-F8FB-FA95-18D84BC185B70BFF</string>
 </dict>
 </plist>

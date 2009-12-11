@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>dateTimeSelectTag(${1:${2:dateOrder="$3"}${4:, monthDisplay="$5"}})$0</string>
+	<string>truncate(${1:${2:text="$3"}${4:, length="$5"}${6:, truncateString="$7"}})$0</string>
 	<key>name</key>
-	<string>dateTimeSelectTag</string>
+	<string>truncate</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>datetimeselecttag</string>
+	<string>truncate</string>
 	<key>uuid</key>
-	<string>D6CACE9D-70CF-4755-914E-BBDFB65C2B4E</string>
+	<string>7F72EB96-EAC8-C621-A6CEEDC5E4B699B2</string>
 </dict>
 </plist>

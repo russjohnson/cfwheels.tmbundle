@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>dataSource(${1:${2:datasource="$3"}${4:, username="$5"}${6:, password="$7"}})$0</string>
+	<key>name</key>
+	<string>dataSource</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>datasource</string>
+	<key>uuid</key>
+	<string>7F72EB6F-C86C-2DC0-0AD3F30758CA5B48</string>
+</dict>
+</plist>

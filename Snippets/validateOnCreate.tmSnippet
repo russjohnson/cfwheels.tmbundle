@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>validateOnCreate(${1:${2:methods="$3"}})$0</string>
+	<string>validateOnCreate(${1:${2:methods="$3"}${4:, if="$5"}${6:, unless="$7"}})$0</string>
 	<key>name</key>
 	<string>validateOnCreate</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>validateoncreate</string>
+	<string>voc</string>
 	<key>uuid</key>
-	<string>C4A0C126-0EB3-48F2-A379-E1C27C1F0114</string>
+	<string>7F72EA6D-F55F-24C1-09C2D5BA950ACD02</string>
 </dict>
 </plist>

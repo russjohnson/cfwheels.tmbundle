@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>average(property="$1"${2:, where="$3"}${4:, include="$5"}${6:, distinct="$7"})$0</string>
+	<string>average(${1:${2:property="$3"}${4:, where="$5"}${6:, include="$7"}${8:, distinct="$9"}})$0</string>
 	<key>name</key>
 	<string>average</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>average</string>
 	<key>uuid</key>
-	<string>812EC3AF-BD7D-4426-AAED-7A5E8DEAD351</string>
+	<string>7F72EB32-A173-3619-597ACFB371422377</string>
 </dict>
 </plist>

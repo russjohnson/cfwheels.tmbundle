@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>errorCount()$0</string>
+	<string>errorCount(${1:${2:property="$3"}${4:, name="$5"}})$0</string>
 	<key>name</key>
 	<string>errorCount</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>errorcount</string>
 	<key>uuid</key>
-	<string>DBC65FC2-DFCD-4C54-8316-4277BA5F21D6</string>
+	<string>7F72E9E6-F5CC-B99E-BA7771AD66E73773</string>
 </dict>
 </plist>

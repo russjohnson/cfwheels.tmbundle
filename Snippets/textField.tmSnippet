@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>textField(${1:${2:objectName="$3"}${4:, property="$5"}${6:, label="$7"}${8:, wrapLabel="$9"}${10:, prepend="$11"}${12:, append="$13"}${14:, prependToLabel="$15"}${16:, appendToLabel="$17"}${18:, errorElement="$19"}})$0</string>
+	<string>textField(${1:${2:objectName="$3"}${4:, property="$5"}${6:, label="$7"}${8:, labelPlacement="$9"}${10:, prepend="$11"}${12:, append="$13"}${14:, prependToLabel="$15"}${16:, appendToLabel="$17"}${18:, errorElement="$19"}})$0</string>
 	<key>name</key>
 	<string>textField</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>textfield</string>
 	<key>uuid</key>
-	<string>6718A005-95F4-404F-9EBF-5DBA57E475C0</string>
+	<string>7F72EC76-E2A9-640F-14E9702367E9AE49</string>
 </dict>
 </plist>

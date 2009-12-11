@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>monthSelectTag(${1:${2:monthDisplay="$3"}})$0</string>
+	<string>monthSelectTag(${1:${2:name="$3"}${4:, selected="$5"}${6:, monthDisplay="$7"}${8:, includeBlank="$9"}${10:, label="$11"}${12:, labelPlacement="$13"}${14:, prepend="$15"}${16:, append="$17"}${18:, prependToLabel="$19"}${20:, appendToLabel="$21"}})$0</string>
 	<key>name</key>
 	<string>monthSelectTag</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>monthselecttag</string>
 	<key>uuid</key>
-	<string>4F7C1151-4042-442F-8F32-77F732388EFB</string>
+	<string>7F72EC7C-D3AE-86C7-D23EE2F8FBDEE146</string>
 </dict>
 </plist>

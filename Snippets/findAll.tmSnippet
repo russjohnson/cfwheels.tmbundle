@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>findAll(${1:${2:where="$3"}${4:, order="$5"}${6:, select="$7"}${8:, include="$9"}${10:, maxrows="$11"}${12:, perpage="$13"}${14:, count="$15"}${16:, handle="$17"}${18:, cache="$19"}${20:, reload="$21"}${22:, parameterize="$23"}})$0</string>
+	<string>findAll(${1:${2:where="$3"}${4:, order="$5"}${6:, select="$7"}${8:, distinct="$9"}${10:, include="$11"}${12:, maxRows="$13"}${14:, page="$15"}${16:, perPage="$17"}${18:, count="$19"}${20:, handle="$21"}${22:, cache="$23"}${24:, reload="$25"}${26:, parameterize="$27"}${28:, returnAs="$29"}${30:, returnIncluded="$31"}})$0</string>
 	<key>name</key>
 	<string>findAll</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>findall</string>
 	<key>uuid</key>
-	<string>F813E828-581B-45E8-A0C5-A16E167094A2</string>
+	<string>7F72EA39-EE12-483B-D7032AC21B567D91</string>
 </dict>
 </plist>

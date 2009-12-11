@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>javaScriptIncludeTag(${1:${2:sources="$3"}${4:, type="$5"}})$0</string>
 	<key>name</key>
-	<string>javascriptIncludeTag</string>
+	<string>javaScriptIncludeTag</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
 	<string>jit</string>
 	<key>uuid</key>
-	<string>7CA85A9A-79CA-4913-8B32-E7066CD0DAAC</string>
+	<string>7F72ECC0-976F-C859-E28B3D386CB313E9</string>
 </dict>
 </plist>

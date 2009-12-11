@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>dateTimeSelect($1)$0</string>
+	<string>dateTimeSelect(${1:${2:objectName="$3"}${4:, property="$5"}${6:, dateOrder="$7"}${8:, dateSeparator="$9"}${10:, startYear="$11"}${12:, endYear="$13"}${14:, monthDisplay="$15"}${16:, timeOrder="$17"}${18:, timeSeparator="$19"}${20:, minuteStep="$21"}${22:, separator="$23"}${24:, includeBlank="$25"}${26:, label="$27"}${28:, labelPlacement="$29"}${30:, prepend="$31"}${32:, append="$33"}${34:, prependToLabel="$35"}${36:, appendToLabel="$37"}${38:, errorElement="$39"}})$0</string>
 	<key>name</key>
 	<string>dateTimeSelect</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>datetimeselect</string>
 	<key>uuid</key>
-	<string>42A1E108-3AE7-427B-A01B-70CE737AB111</string>
+	<string>7F72EBB0-FC8F-10A6-B60B464116ABFEF3</string>
 </dict>
 </plist>

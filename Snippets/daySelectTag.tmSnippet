@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>daySelectTag($1)$0</string>
+	<string>daySelectTag(${1:${2:name="$3"}${4:, selected="$5"}${6:, includeBlank="$7"}${8:, label="$9"}${10:, labelPlacement="$11"}${12:, prepend="$13"}${14:, append="$15"}${16:, prependToLabel="$17"}${18:, appendToLabel="$19"}})$0</string>
 	<key>name</key>
 	<string>daySelectTag</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>dayselecttag</string>
 	<key>uuid</key>
-	<string>95005AD3-670D-4DD9-B08A-6C7A4B2037D3</string>
+	<string>7F72EB78-9409-1D36-F1689A5D77118C4A</string>
 </dict>
 </plist>

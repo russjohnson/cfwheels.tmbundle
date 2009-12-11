@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>timeSelect(${1:${2:order="$3"}${4:, seperator="$5"}})$0</string>
+	<string>timeSelect(${1:${2:objectName="$3"}${4:, property="$5"}${6:, order="$7"}${8:, separator="$9"}${10:, minuteStep="$11"}${12:, includeBlank="$13"}${14:, label="$15"}${16:, labelPlacement="$17"}${18:, prepend="$19"}${20:, append="$21"}${22:, prependToLabel="$23"}${24:, appendToLabel="$25"}${26:, errorElement="$27"}})$0</string>
 	<key>name</key>
 	<string>timeSelect</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>timeselect</string>
 	<key>uuid</key>
-	<string>E66104F9-C34B-4A97-BA41-60B011891842</string>
+	<string>7F72ECAF-0708-70C7-01638B639424FB3D</string>
 </dict>
 </plist>

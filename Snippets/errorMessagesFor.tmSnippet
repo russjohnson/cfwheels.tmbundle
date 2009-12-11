@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>errorMessagesFor(${1:${2:objectName="$3"}})$0</string>
+	<string>errorMessagesFor(${1:${2:objectName="$3"}${4:, class="$5"}${6:, showDuplicates="$7"}})$0</string>
 	<key>name</key>
 	<string>errorMessagesFor</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>errormessagesfor</string>
 	<key>uuid</key>
-	<string>1B557024-86EC-4797-B715-CEBEA1DA8DE2</string>
+	<string>7F72EC52-0A50-C0E5-D49E8FE12DFBEA3F</string>
 </dict>
 </plist>

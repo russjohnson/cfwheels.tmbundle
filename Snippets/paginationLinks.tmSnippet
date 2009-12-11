@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>paginationLinks(${1:${2:windowSize="$3"}${4:, alwaysShowAnchors="$5"}${6:, linkToCurrentPage="$7"}${8:, prependToLink="$9"}${10:, appendToLink="$11"}${12:, classForCurrent="$13"}${14:, handle="$15"}${16:, name="$17"}${18:, params="$19"}})$0</string>
+	<string>paginationLinks(${1:${2:windowSize="$3"}${4:, alwaysShowAnchors="$5"}${6:, anchorDivider="$7"}${8:, linkToCurrentPage="$9"}${10:, prepend="$11"}${12:, append="$13"}${14:, prependToPage="$15"}${16:, prependOnFirst="$17"}${18:, appendToPage="$19"}${20:, appendOnLast="$21"}${22:, classForCurrent="$23"}${24:, handle="$25"}${26:, name="$27"}${28:, showSinglePage="$29"}})$0</string>
 	<key>name</key>
 	<string>paginationLinks</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>paginationlinks</string>
 	<key>uuid</key>
-	<string>A609C515-1DC4-4DC2-ADB7-4895360A0789</string>
+	<string>7F72EBAE-0272-E62E-F9BE8CF77031BAA9</string>
 </dict>
 </plist>

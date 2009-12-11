@@ -9,8 +9,8 @@
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>av</string>
+	<string>aftervalidation</string>
 	<key>uuid</key>
-	<string>AC11CB8D-F63E-48AD-B45E-306026CC22E1</string>
+	<string>7F72EA47-B080-0805-AFAC1C8E3F61C706</string>
 </dict>
 </plist>

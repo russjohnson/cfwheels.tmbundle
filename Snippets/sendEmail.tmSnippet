@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>sendEmail(${1:${2:template="$3"}${4:, layout="$5"}})$0</string>
+	<string>sendEmail(${1:${2:templates="$3"}${4:, from="$5"}${6:, to="$7"}${8:, subject="$9"}${10:, layouts="$11"}${12:, detectMultipart="$13"}})$0</string>
 	<key>name</key>
 	<string>sendEmail</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>sendemail</string>
 	<key>uuid</key>
-	<string>E0C8BC79-DD6A-49DE-924F-54426F99040B</string>
+	<string>7F72EC72-0774-3301-D219FC7950C011DB</string>
 </dict>
 </plist>

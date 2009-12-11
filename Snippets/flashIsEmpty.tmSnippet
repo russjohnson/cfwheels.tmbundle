@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>flashIsEmpty($1)$0</string>
+	<string>flashIsEmpty()$0</string>
 	<key>name</key>
 	<string>flashIsEmpty</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>flashisempty</string>
 	<key>uuid</key>
-	<string>DA0CB66C-8B9A-43BB-9A03-27A0FF2EDA44</string>
+	<string>7F72EB99-C63F-1EFD-64F8BB960C613E4B</string>
 </dict>
 </plist>

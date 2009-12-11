@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>select(${1:${2:objectName="$3"}${4:, property="$5"}${6:, options="$7"}${8:, includeBlank="$9"}${10:, multiple="$11"}${12:, valueField="$13"}${14:, textField="$15"}${16:, label="$17"}${18:, wrapLabel="$19"}${20:, prepend="$21"}${22:, append="$23"}${24:, prependToLabel="$25"}${26:, appendToLabel="$27"}${28:, errorElement="$29"}})$0</string>
+	<string>select(${1:${2:objectName="$3"}${4:, property="$5"}${6:, options="$7"}${8:, includeBlank="$9"}${10:, valueField="$11"}${12:, textField="$13"}${14:, label="$15"}${16:, labelPlacement="$17"}${18:, prepend="$19"}${20:, append="$21"}${22:, prependToLabel="$23"}${24:, appendToLabel="$25"}${26:, errorElement="$27"}})$0</string>
 	<key>name</key>
 	<string>select</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>select</string>
 	<key>uuid</key>
-	<string>8FC3361F-8AC7-4AC2-87D3-BF1CAD001945</string>
+	<string>7F72EB9A-D8B6-12F5-1756D3C739403113</string>
 </dict>
 </plist>

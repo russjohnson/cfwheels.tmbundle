@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>errorMessageOn(${1:${2:objectName="$3"}${4:, property="$5"}${6:, prependText="$7"}${8:, appendText="$9"}${10:, wrapperElement="$11"}})$0</string>
+	<string>errorMessageOn(${1:${2:objectName="$3"}${4:, property="$5"}${6:, prependText="$7"}${8:, appendText="$9"}${10:, wrapperElement="$11"}${12:, class="$13"}})$0</string>
 	<key>name</key>
 	<string>errorMessageOn</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>errormessageon</string>
 	<key>uuid</key>
-	<string>2EEA8CE0-2888-449C-A2CC-888621A515F8</string>
+	<string>7F72EBD0-FC76-C0C3-9C09B9CE37A117A2</string>
 </dict>
 </plist>

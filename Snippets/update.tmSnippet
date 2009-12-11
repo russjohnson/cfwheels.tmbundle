@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>renderPageToString(${1:${2:controller="$3"}${4:, action="$5"}${6:, layout="$7"}${8:, cache="$9"}})$0</string>
+	<string>update(${1:${2:properties="$3"}${4:, parameterize="$5"}})$0</string>
 	<key>name</key>
-	<string>renderPageToString</string>
+	<string>update</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>rpts</string>
+	<string>update</string>
 	<key>uuid</key>
-	<string>2C7A9C34-B7C3-4F1C-94DC-F41FFD27B4C1</string>
+	<string>7F72EA5B-0C62-EE62-E8FFCB6B9FFC036C</string>
 </dict>
 </plist>

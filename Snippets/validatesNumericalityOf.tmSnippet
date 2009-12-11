@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>validatesNumericalityOf(${1:${2:property="$3"}${4:, onlyInteger="$5"}${6:, message="$7"}${8:, when="$9"}${10:, allowBlank="$11"}${12:, if="$13"}${14:, unless="$15"}})$0</string>
+	<string>validatesNumericalityOf(${1:${2:properties="$3"}${4:, message="$5"}${6:, when="$7"}${8:, allowBlank="$9"}${10:, onlyInteger="$11"}${12:, if="$13"}${14:, unless="$15"}})$0</string>
 	<key>name</key>
 	<string>validatesNumericalityOf</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>vno</string>
 	<key>uuid</key>
-	<string>A3ECEDFA-4A9D-4290-B49B-E2BFEF07EBD4</string>
+	<string>7F72EB73-D061-5416-CDF45C2E5BFCE439</string>
 </dict>
 </plist>

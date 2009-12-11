@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>checkBox(${1:${2:objectName="$3"}${4:, property="$5"}${6:, checkedValue="$7"}${8:, uncheckedValue="$9"}${10:, label="$11"}${12:, wrapLabel="$13"}${14:, prepend="$15"}${16:, append="$17"}${18:, prependToLabel="$19"}${20:, appendToLabel="$21"}${22:, errorElement="$23"}})$0</string>
+	<string>checkBox(${1:${2:label="$3"}${4:, labelPlacement="$5"}${6:, checkedValue="$7"}${8:, errorElement="$9"}${10:, appendToLabel="$11"}${12:, prependToLabel="$13"}${14:, append="$15"}${16:, prepend="$17"}${18:, uncheckedValue="$19"}${20:, property="$21"}${22:, objectName="$23"}})$0</string>
 	<key>name</key>
 	<string>checkBox</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>checkbox</string>
 	<key>uuid</key>
-	<string>10A1BE9D-001E-4249-87FA-EF4094684862</string>
+	<string>7F72ECB8-C446-28E3-147FED9BEC2AA14D</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>radioButton(${1:${2:objectName="$3"}${4:, property="$5"}${6:, tagValue="$7"}${8:, label="$9"}${10:, wrapLabel="$11"}${12:, prepend="$13"}${14:, append="$15"}${16:, prependToLabel="$17"}${18:, appendToLabel="$19"}${20:, errorElement="$21"}})$0</string>
+	<string>radioButton(${1:${2:appendToLabel="$3"}${4:, errorElement="$5"}${6:, objectName="$7"}${8:, property="$9"}${10:, tagValue="$11"}${12:, label="$13"}${14:, labelPlacement="$15"}${16:, prepend="$17"}${18:, append="$19"}${20:, prependToLabel="$21"}})$0</string>
 	<key>name</key>
 	<string>radioButton</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>radiobutton</string>
 	<key>uuid</key>
-	<string>F9CD2CB8-2EEE-4D0A-8FEF-E2A20DEF47FC</string>
+	<string>7F72ECA7-9B06-29B3-27750C3816F9D58B</string>
 </dict>
 </plist>

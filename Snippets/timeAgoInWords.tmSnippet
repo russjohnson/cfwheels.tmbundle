@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>timeAgoInWords(${1:${2:fromTime="$3"}${4:, includeSeconds="$5"}${6:, toTime="$7"}})$0</string>
+	<key>name</key>
+	<string>timeAgoInWords</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>timeagoinwords</string>
+	<key>uuid</key>
+	<string>7F72EBC7-AB50-5959-3FF96FB698D5411D</string>
+</dict>
+</plist>

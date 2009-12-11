@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>hourSelectTag($1)$0</string>
+	<string>hourSelectTag(${1:${2:name="$3"}${4:, selected="$5"}${6:, includeBlank="$7"}${8:, label="$9"}${10:, labelPlacement="$11"}${12:, prepend="$13"}${14:, append="$15"}${16:, prependToLabel="$17"}${18:, appendToLabel="$19"}})$0</string>
 	<key>name</key>
 	<string>hourSelectTag</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>hourselecttag</string>
 	<key>uuid</key>
-	<string>2C076200-D290-42CE-89FF-3A4F29A188A2</string>
+	<string>7F72ECA4-E4A8-9921-778F1DE46F767AB2</string>
 </dict>
 </plist>

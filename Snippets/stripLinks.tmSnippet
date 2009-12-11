@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>stripLinks(${1:${2:html="$3"}})$0</string>
+	<key>name</key>
+	<string>stripLinks</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>striplinks</string>
+	<key>uuid</key>
+	<string>7F72EBC1-EF53-97AC-4AC69BD40C7AE0DF</string>
+</dict>
+</plist>

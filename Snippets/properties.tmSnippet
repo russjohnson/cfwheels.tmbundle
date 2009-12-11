@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>dateSelectTag(${1:${2:order="$3"}${4:, seperator="$5"}})$0</string>
+	<string>properties()$0</string>
 	<key>name</key>
-	<string>dateSelectTag</string>
+	<string>properties</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>dateselecttag</string>
+	<string>properties</string>
 	<key>uuid</key>
-	<string>1222CFCE-68E5-4289-A7CD-0615AF529E22</string>
+	<string>7F72E9E3-B605-0523-6EB21FFA75705080</string>
 </dict>
 </plist>

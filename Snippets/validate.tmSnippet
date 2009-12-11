@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>validate(${1:${2:methods="$3"}})$0</string>
+	<string>validate(${1:${2:methods="$3"}${4:, if="$5"}${6:, unless="$7"}})$0</string>
 	<key>name</key>
 	<string>validate</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>validate</string>
 	<key>uuid</key>
-	<string>D33F3107-24B0-4E9A-8EDC-7D79B862E0D9</string>
+	<string>7F72EB44-B00B-6B21-B0A8ECD4CF091062</string>
 </dict>
 </plist>

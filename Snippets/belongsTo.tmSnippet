@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>belongsTo(${1:${2:name="$3"}${4:, class="$5"}${6:, foreignKey="$7"}})$0</string>
+	<string>belongsTo(${1:${2:name="$3"}${4:, class="$5"}${6:, foreignKey="$7"}${8:, joinType="$9"}})$0</string>
 	<key>name</key>
 	<string>belongsTo</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>belongsto</string>
 	<key>uuid</key>
-	<string>55D064AE-4DFD-48F7-95AD-B41823C50C8E</string>
+	<string>7F72EA9B-A7D8-ED23-5FBE69B358BF7DEA</string>
 </dict>
 </plist>

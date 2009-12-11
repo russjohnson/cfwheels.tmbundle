@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>valid($1)$0</string>
+	<string>valid()$0</string>
 	<key>name</key>
 	<string>valid</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>valid</string>
 	<key>uuid</key>
-	<string>BDC28456-D3CF-4427-A410-DEF591D40E3F</string>
+	<string>7F72EA61-E5E7-6DE9-BA13FB9A8D8E75B1</string>
 </dict>
 </plist>

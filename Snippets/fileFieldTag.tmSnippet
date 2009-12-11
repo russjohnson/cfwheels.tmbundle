@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>fileFieldTag(${1:${2:name="$3"}${4:, value="$5"}${6:, label="$7"}${8:, wrapLabel="$9"}${10:, prepend="$11"}${12:, append="$13"}${14:, prependToLabel="$15"}${16:, appendToLabel="$17"}})$0</string>
+	<string>fileFieldTag(${1:${2:name="$3"}${4:, label="$5"}${6:, labelPlacement="$7"}${8:, prepend="$9"}${10:, append="$11"}${12:, prependToLabel="$13"}${14:, appendToLabel="$15"}})$0</string>
 	<key>name</key>
 	<string>fileFieldTag</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>filefieldtag</string>
 	<key>uuid</key>
-	<string>3920766F-0534-4CE2-A352-C3B3C6EAB5C5</string>
+	<string>7F72EBD3-93D3-12B1-531698064F0701C0</string>
 </dict>
 </plist>

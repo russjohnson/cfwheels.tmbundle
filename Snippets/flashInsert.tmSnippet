@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>flashInsert($1)$0</string>
+	<string>flashInsert()$0</string>
 	<key>name</key>
 	<string>flashInsert</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>flashinsert</string>
 	<key>uuid</key>
-	<string>E1C511A3-BBB3-4B1B-B35A-42193A0E2843</string>
+	<string>7F72EC89-0568-1586-90A1141C7D57C320</string>
 </dict>
 </plist>

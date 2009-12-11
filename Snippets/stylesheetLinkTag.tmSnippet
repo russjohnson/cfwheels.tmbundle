@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>stylesheetLinkTag(${1:${2:sources="$3"}${4:, type="$5"}${6:, media="$7"}})$0</string>
+	<string>styleSheetLinkTag(${1:${2:sources="$3"}${4:, type="$5"}${6:, media="$7"}})$0</string>
 	<key>name</key>
-	<string>stylesheetLinkTag</string>
+	<string>styleSheetLinkTag</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
 	<string>slt</string>
 	<key>uuid</key>
-	<string>89C16583-0BD9-4910-A17E-D12CB9F0F649</string>
+	<string>7F72EC28-D44C-5127-F2A16C7E55CFF0EC</string>
 </dict>
 </plist>

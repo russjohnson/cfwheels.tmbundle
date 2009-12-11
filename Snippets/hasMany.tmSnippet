@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>hasMany(${1:${2:name="$3"}${4:, class="$5"}${6:, foreignKey="$7"}})$0</string>
+	<string>hasMany(${1:${2:name="$3"}${4:, class="$5"}${6:, foreignKey="$7"}${8:, joinType="$9"}${10:, shortcut="$11"}${12:, through="$13"}})$0</string>
 	<key>name</key>
 	<string>hasMany</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>hasmany</string>
 	<key>uuid</key>
-	<string>ECCBDA27-A1F5-45A4-929B-3240AF7E0409</string>
+	<string>7F72EA9D-F0E3-C3B6-4FA0BA92570C4928</string>
 </dict>
 </plist>

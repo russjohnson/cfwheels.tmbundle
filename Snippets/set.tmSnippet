@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>timeSelectTag(${1:${2:order="$3"}${4:, seperator="$5"}})$0</string>
+	<string>set()$0</string>
 	<key>name</key>
-	<string>timeSelectTag</string>
+	<string>set</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>timeselecttag</string>
+	<string>set</string>
 	<key>uuid</key>
-	<string>4975D6D8-5535-4F86-9B88-80132DB0D368</string>
+	<string>7F72EB86-96E7-D3B5-592BADB63BF9EF71</string>
 </dict>
 </plist>

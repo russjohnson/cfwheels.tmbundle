@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>addRoute(${1:${2:name="$3"}${4:, pattern="$5"}${6:, controller="$7"}${8:, action="$9"}})$0</string>
+	<string>addRoute(${1:${2:name="$3"}${4:, action="$5"}${6:, controller="$7"}${8:, pattern="$9"}})$0</string>
 	<key>name</key>
 	<string>addRoute</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>addroute</string>
 	<key>uuid</key>
-	<string>E6D2C5CD-481E-431F-A6DC-0BFD58F868D7</string>
+	<string>7F72EBBB-DF4C-44F1-8F6E86C18D2EC301</string>
 </dict>
 </plist>

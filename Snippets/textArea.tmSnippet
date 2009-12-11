@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>textArea(${1:${2:objectName="$3"}${4:, property="$5"}${6:, label="$7"}${8:, wrapLabel="$9"}${10:, prepend="$11"}${12:, append="$13"}${14:, prependToLabel="$15"}${16:, appendToLabel="$17"}${18:, errorElement="$19"}})$0</string>
+	<string>textArea(${1:${2:objectName="$3"}${4:, property="$5"}${6:, label="$7"}${8:, labelPlacement="$9"}${10:, prepend="$11"}${12:, append="$13"}${14:, prependToLabel="$15"}${16:, appendToLabel="$17"}${18:, errorElement="$19"}})$0</string>
 	<key>name</key>
 	<string>textArea</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>textarea</string>
 	<key>uuid</key>
-	<string>029A68E6-D668-44B3-80A8-68C5BFCE0231</string>
+	<string>7F72EC97-01B7-6AAE-5854877D026C7CB4</string>
 </dict>
 </plist>
