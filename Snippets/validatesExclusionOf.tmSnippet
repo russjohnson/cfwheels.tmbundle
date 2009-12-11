@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>validatesExclusionOf(${1:${2:property="$3"}${4:, list="$5"}${6:, message="$7"}${8:, when="$9"}${10:, allowBlank="$11"}})$0</string>
+	<string>validatesExclusionOf(${1:${2:property="$3"}${4:, list="$5"}${6:, message="$7"}${8:, when="$9"}${10:, allowBlank="$11"}${12:, if="$13"}${14:, unless="$15"}})$0</string>
 	<key>name</key>
 	<string>validatesExclusionOf</string>
 	<key>scope</key>

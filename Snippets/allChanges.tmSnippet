@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>allChanges($1)$0</string>
+	<string>allChanges()$0</string>
 	<key>name</key>
 	<string>allChanges</string>
 	<key>scope</key>

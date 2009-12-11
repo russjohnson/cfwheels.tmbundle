@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>validatesUniquenessOf(${1:${2:property="$3"}${4:, scope="$5"}${6:, message="$7"}${8:, when="$9"}})$0</string>
+	<string>validatesUniquenessOf(${1:${2:property="$3"}${4:, scope="$5"}${6:, message="$7"}${8:, when="$9"}${10:, allowBlank="$11"}${12:, if="$13"}${14:, unless="$15"}})$0</string>
 	<key>name</key>
 	<string>validatesUniquenessOf</string>
 	<key>scope</key>
