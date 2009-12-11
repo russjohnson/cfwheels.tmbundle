@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>allErrors($1)$0</string>
+	<string>allChanges($1)$0</string>
 	<key>name</key>
-	<string>allErrors</string>
+	<string>allChanges</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>allerrors</string>
+	<string>allchanges</string>
 	<key>uuid</key>
-	<string>B6DF1BB7-0C82-43B3-B06F-642B91725574</string>
+	<string>27DA9779-683A-45B2-9105-9E1219C423AB</string>
 </dict>
 </plist>
