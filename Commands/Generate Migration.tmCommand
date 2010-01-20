@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>RUBYLIB="$TM_BUNDLE_SUPPORT/lib:$RUBYLIB"
+"${TM_RUBY:=ruby}" -- "${TM_BUNDLE_SUPPORT}/bin/generate_migration.rb"</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>~@M</string>
+	<key>name</key>
+	<string>Generate Migration</string>
+	<key>output</key>
+	<string>discard</string>
+	<key>scope</key>
+	<string>entity.name.tag.cfml,entity.name.tag.cfquery.html, entity.name.tag.other.html,meta.tag.other.html,text.html.cfm</string>
+	<key>uuid</key>
+	<string>2B3A9FF1-DD3B-427C-B64C-4AB00A2EABA7</string>
+</dict>
+</plist>
