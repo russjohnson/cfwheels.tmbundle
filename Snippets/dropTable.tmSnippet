@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>t = dropTable('$1');$0</string>
+	<key>name</key>
+	<string>dropTable</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>mdroptable</string>
+	<key>uuid</key>
+	<string>09FAF228-F1F1-4F16-BA70-E73E25DD5F24</string>
+</dict>
+</plist>

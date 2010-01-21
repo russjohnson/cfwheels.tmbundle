@@ -14,7 +14,7 @@ project_root = ENV['TM_PROJECT_DIRECTORY']
 migration_dir = File.join(project_root, "db", "migrate")
 number = Time.now.utc.strftime("%Y%m%d%H%M%S")
 
-generated_code = '<cfcomponent extends="plugins.dbmigrate.migration" hint="">
+generated_code = '<cfcomponent extends="plugins.dbmigrate.Migration" hint="">
   <cffunction name="up">
     <cfscript>
         
