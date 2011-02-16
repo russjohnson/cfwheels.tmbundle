@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>t = createTable('$1');$0</string>
 	<key>name</key>
-	<string>createTable</string>
+	<string>Create Table</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>mcreatetable</string>
+	<string>mcreatetab</string>
 	<key>uuid</key>
 	<string>BE97C0BF-B5E1-43EC-9657-B29DCB9FB8BE</string>
 </dict>

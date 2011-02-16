@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>t.dateTime(${1:${2:columnNames="$3"}${4:${5:, default="$6"}${7:, null="$8"}}});$0</string>
+	<string>t = renameTable(oldName="$1", newName="$2");$0</string>
 	<key>name</key>
-	<string>datetime</string>
+	<string>Rename Table</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>mdatetime</string>
+	<string>mrenametab</string>
 	<key>uuid</key>
-	<string>6A6C2B8A-BC3D-4857-A87E-03A9BDA392DA</string>
+	<string>328A4F2F-3645-415C-AE73-34172BF222C7</string>
 </dict>
 </plist>

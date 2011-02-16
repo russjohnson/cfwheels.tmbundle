@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>changeColumn(table="$1", columnType="$2", columnName="$3"${4:${5:, referenceName="$6"}${7:, default="$8"}${9:, null="$10"}${11:, limit="$12"}${13:, precision="$14"}${15:, scale="$16"}});$0</string>
+	<key>name</key>
+	<string>Change Column</string>
+	<key>scope</key>
+	<string>text.html.cfm</string>
+	<key>tabTrigger</key>
+	<string>mchangecol</string>
+	<key>uuid</key>
+	<string>DF384140-9F92-4DA9-89A2-E07751E71C89</string>
+</dict>
+</plist>

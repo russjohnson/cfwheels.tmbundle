@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>t.dateTime(${1:${2:columnNames="$3"}${4:${5:, default="$6"}${7:, null="$8"}}});$0</string>
+	<string>t = changeTable('$1');
+	$2
+t.change();$0</string>
 	<key>name</key>
-	<string>datetime</string>
+	<string>Change Table</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>mdatetime</string>
+	<string>mchangetab</string>
 	<key>uuid</key>
-	<string>6A6C2B8A-BC3D-4857-A87E-03A9BDA392DA</string>
+	<string>E0AEDD07-0F6D-4BED-8909-C0372630D4B3</string>
 </dict>
 </plist>

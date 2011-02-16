@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>t.dateTime(${1:${2:columnNames="$3"}${4:${5:, default="$6"}${7:, null="$8"}}});$0</string>
+	<string>t.time(columnNames="$1"${2:${3:, default="$4"}${5:, null="$6"}});$0</string>
 	<key>name</key>
-	<string>datetime</string>
+	<string>time</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>mdatetime</string>
+	<string>mtime</string>
 	<key>uuid</key>
-	<string>6A6C2B8A-BC3D-4857-A87E-03A9BDA392DA</string>
+	<string>DC539069-5EFD-491B-85BF-C910C5BD52EC</string>
 </dict>
 </plist>

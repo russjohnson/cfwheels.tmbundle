@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>t.dateTime(${1:${2:columnNames="$3"}${4:${5:, default="$6"}${7:, null="$8"}}});$0</string>
+	<string>dropForeignKey(table="$1", keyName="$2");$0</string>
 	<key>name</key>
-	<string>datetime</string>
+	<string>Drop Foreign Key</string>
 	<key>scope</key>
 	<string>text.html.cfm</string>
 	<key>tabTrigger</key>
-	<string>mdatetime</string>
+	<string>mdropfkey</string>
 	<key>uuid</key>
-	<string>6A6C2B8A-BC3D-4857-A87E-03A9BDA392DA</string>
+	<string>B5F3BA9A-3ACC-4F2A-8C29-2A85AA79E1D7</string>
 </dict>
 </plist>
